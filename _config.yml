@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Felipe Fernandez Portfolio
 
 # Your name to show in the footer
-author: Some Person
+author: Felie Fernandez
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -25,7 +25,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://felipefe20.github.io"
   
 
 ################
@@ -55,7 +55,7 @@ social-network-links:
   email: "ofelipefernandez@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: felipefe20
-  twitter: learning_data20
+  twitter: learningdata20
   youtube: "@WorldofData20"
   medium: ofelipefernandez
 #  reddit: yourname
@@ -68,7 +68,7 @@ social-network-links:
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
-#  yelp: yourname
+#  yelp: yournamess
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "felipefe20.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
