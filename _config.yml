@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Felipe Fernandez Projects
+title: Data Scientist Engineer
 
 # Your name to show in the footer
 author: Felipe Fernandez
@@ -21,7 +21,7 @@ author: Felipe Fernandez
 
 navbar-links:
   About Me: "aboutme"
-  My Projects: "blogposts"
+  My Projects: "myprojects"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
