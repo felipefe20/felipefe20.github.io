@@ -1,5 +1,5 @@
 ---
 layout: blog
 title: My projects
-subtitle: Always learning
+subtitle: My learning process
 ---
